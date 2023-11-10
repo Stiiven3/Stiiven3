@@ -31,7 +31,7 @@
 <div align="center">
   <p align="center">My streaks</p>
     
-<a href="https://git.io/streak-stats"><img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" 
+<a href="https://git.io/streak-stats"><img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat"</a> 
  
   <br/>
  
