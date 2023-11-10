@@ -31,13 +31,7 @@
 <div align="center">
   <p align="center">My streaks</p>
     
-<a href="https://git.io/streak-stats"><img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<a href="https://git.io/streak-stats"><img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" 
  
   <br/>
  
