@@ -55,10 +55,10 @@
 ******
 ### - 📫 How to reach me: ...
    <p>
-      <a href="https://www.linkedin.com/in/luiggycf/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+      <a href="https://www.linkedin.com/in/steven-manuel-orozco-garcia-472b69228/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Steven Orozco LinkedIn Profile" height="30" width="30">
       </a>   
-      <a align='right' href="mailto:luiggylml@gmail.com">
+      <a align='right' href="mailto:stevenorozco2021@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
