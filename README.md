@@ -21,7 +21,7 @@
 ## About 👨
    
 <div align="center">
-  <p align="center">Soy estudiante de Licenciatura en informatica a la mitad de la carrera descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, trabajadora , responsable y con capacidad de adaptación a las nuevas tecnologías.</p>
+  <p align="center">Soy estudiante de termino de Licenciatura en informatica a la mitad de la carrera descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, trabajadora , responsable y con capacidad de adaptación a las nuevas tecnologías.</p>
     </p>
 </div>
 
@@ -33,23 +33,7 @@
   <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
   <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
   
-    
-  
 
-</div>
-
-
- ## Streaks 💻
-<div align="center">
-  <p align="center">My streaks</p>
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
- 
-  <br/>
- 
-</div>
-
-
-  
   
   
 ******
