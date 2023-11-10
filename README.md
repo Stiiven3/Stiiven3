@@ -33,7 +33,16 @@
   <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
   <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
   
+ ## Streaks 💻
+<div align="center">
+  <p align="center">My streaks</p>
+    
+<a href="https://git.io/streak-stats"><img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
+ 
+  <br/>
+ 
+</div>
   
   
 ******
