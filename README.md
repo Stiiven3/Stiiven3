@@ -32,7 +32,7 @@
   <p align="center">My streaks</p>
     
 <a href="https://git.io/streak-stats"><img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  
   <br/>
  
