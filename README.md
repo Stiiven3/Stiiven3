@@ -31,7 +31,6 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
   
     
