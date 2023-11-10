@@ -5,7 +5,7 @@
  <p align="center">
  <h1 align="center">Hi I'm Steven Orozco<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1>
  <h4 align="center"> 
-     
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+Frontend+Web+Developer%E2%9C%A8%E2%9C%A8"></a>  
 </h4>
 </p>
 <br>
@@ -67,9 +67,7 @@
    
   ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
    
-   <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lgcarlinf&color=24833e" alt="" width="12%" height="12%"/> 
-    </div>
+ 
 
 
 
@@ -78,17 +76,3 @@
 
 
 
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
