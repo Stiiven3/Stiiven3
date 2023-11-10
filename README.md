@@ -1,18 +1,95 @@
 
 
 
-**Stiiven3/Stiiven3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Steven Orozco</h1>
-<h3 align="center">Desarrollador Web en proceso. ✅</h3>
+    
+ <p align="center">
+ <h1 align="center">Hi I'm Steven Orozco<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1>
+ <h4 align="center"> 
+     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+Frontend+Web+Developer%E2%9C%A8%E2%9C%A8"></a>
+</h4>
+</p>
+<br>
+    
+  <div align="center">
+  <a href="https://github.com/lgcarlinf">
+ <img height="150em" src="https://readme-stats.clckblog.space/api?username=lgcarlinf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=lgcarlinf&layout=compact&langs_count=7&theme=radical" />
+  <br/>
+    </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stiiven3&label=Profile%20views&color=0e75b6&style=flat" alt="stiiven3" /> </p>
+## About 👨
+   
+<div align="center">
+  <p align="center">Soy estudiante de Licenciatura en informatica a la mitad de la carrera descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, trabajadora , responsable y con capacidad de adaptación a las nuevas tecnologías.</p>
+    </p>
+</div>
 
 
-- 🌱 Estoy aprendiendo **HTML,CSS,C#,Javascripts.**
+## Full Stack Developer 
+<div style="display: inline_block" align="center">
+  <img align="center" alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
+  <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
+  <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
+  <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
+  
+    
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/stiiwarsog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stiiwarsog" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stiiwarsog" target="blank"><img align="center" 
+</div>
 
 
+ ## Streaks 💻
+<div align="center">
+  <p align="center">My streaks</p>
+  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+ 
+  <br/>
+ 
+</div>
+
+
+  
+  
+  
+******
+### - 📫 How to reach me: ...
+   <p>
+      <a href="https://www.linkedin.com/in/luiggycf/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+      </a>   
+      <a align='right' href="mailto:luiggylml@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+   </p>
+   <p><label>stevenorozco2021@gmail.com</label></p>
+   
+   
+  ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
+   
+   <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=lgcarlinf&color=24833e" alt="" width="12%" height="12%"/> 
+    </div>
+
+
+
+
+    
+
+
+
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
