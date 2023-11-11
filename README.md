@@ -20,7 +20,7 @@
 </div>
 
 
-## skills
+## Skills
 <div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
