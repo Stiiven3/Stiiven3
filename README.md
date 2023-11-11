@@ -1,6 +1,7 @@
-<img  margin: 0 auto;" height="auto" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
 
-    
+<div align="center"><img style="display: block; margin: 0 auto;" height="auto" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif"></div>
+ 
+ 
  <p align="center">
  <h1 align="center">Hi I'm Steven Orozco<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1>
  <h4 align="center"> 
