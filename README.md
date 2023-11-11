@@ -1,5 +1,4 @@
-
-<img align="center" height="auto" width="100" scr="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
+<img style="display: block; margin: 0 auto;" height="auto" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
 
     
  <p align="center">
