@@ -32,6 +32,9 @@
   <p align="center">My streaks</p>
     
 <a href="https://github.com/Stiiven3"><img src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven Orozco&theme=dark)
+
  
   <br/>
  
@@ -51,7 +54,7 @@
    <p><label>stevenorozco2021@gmail.com</label></p>
    
    
- ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 
