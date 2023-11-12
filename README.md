@@ -33,7 +33,7 @@
     
 <a href="https://github.com/Stiiven3"><img src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven Orozco&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stiiven3&hide_progress=true)
 
  
   <br/>
