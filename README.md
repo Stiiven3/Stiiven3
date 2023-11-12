@@ -31,7 +31,7 @@
 <div align="center">
   <p align="center">My streaks</p>
     
-<a href="https://github.com/Stiiven3"><img src="https://github-readme-streak-stats.herokuapp.com?user=Stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://github.com/stiiven3"><img src="https://github-readme-streak-stats.herokuapp.com?user=stiiven3&theme=shades-of-purple&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stiiven3&theme=darcula)
