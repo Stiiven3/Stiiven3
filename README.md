@@ -54,14 +54,8 @@
    <p><label>stevenorozco2021@gmail.com</label></p>
 
    
-   <div align="center"><img height="auto" width="100" src=" https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"></div>
-   
 
 
-
-
-   
- 
 
    <div align="center">
         <img src="https://komarev.com/ghpvc/?username=Stiiven3&color=24833e" alt="" width="12%" height="12%"/> 
@@ -69,6 +63,8 @@
 
 
     
-
+div style="text-align: center;">
+  <img height="auto" width="100" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+</div>
 
 
