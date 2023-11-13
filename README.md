@@ -53,10 +53,10 @@
    </p>
    <p><label>stevenorozco2021@gmail.com</label></p>
 
-   
-div style="text-align">
+<div style="text-align: center;">
   <img height="auto" width="100" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
 </div>
+
 
 
 
