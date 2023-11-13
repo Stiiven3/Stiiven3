@@ -54,7 +54,7 @@
    <p><label>stevenorozco2021@gmail.com</label></p>
 
    
-   <div align="center"><img height="auto" width="100" src=" https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif   "></div>
+   <div align="center"><img height="auto" width="100" src=" https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"></div>
    
 
 
