@@ -15,7 +15,7 @@
 ## About 👨
    
 <div align="center">
-  <p align="center">Soy estudiante de termino de Licenciatura en informatica   empece a interesarme en la programacion web, ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, trabajadora , responsable y con capacidad de adaptación a las nuevas tecnologías.</p>
+  <p align="center">Soy estudiante de termino de Licenciatura en informatica   empece a interesarme en la programacion web, ahora le dedico el 100% de mi tiempo a seguir aprendiendo.</p>
     </p>
 </div>
 
