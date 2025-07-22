@@ -26,6 +26,8 @@
   <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
   <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
+  <img align="center" alt="Github" height="50" width="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdvZm90Y29hMmVlN3J4empqNGt4eW0weXJpdXF0eXp4cGFnbmxoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif">
+ 
   
  ## Streaks 💻
 <div align="center">
