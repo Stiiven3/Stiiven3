@@ -26,7 +26,7 @@
   <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
   <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-   <img align="center" alt="Github" height="50" width="50" src="  https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFsNTQyMms2c3VtN3B6YnBxcDE0MHI5ZDA4eTBtZGp5ZnltNm9uMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif
+   <img align="center" alt="Github" height="50" width="50" src="  https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JpN3JqeWl3amtneWlsdGNsZGdmN2s3bXYycXMxOG13N3M5MzdmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif
 
  ">
 
