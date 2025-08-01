@@ -15,7 +15,7 @@
 ## About 👨
    
 <div align="center">
-  <p align="center">Soy estudiante de Licenciatura en Informática con un profundo interés en la programación web. Actualmente dedico el 100% de mi tiempo a aprender y practicar desarrollo frontend y backend, fortaleciendo mis conocimientos en HTML, CSS, JavaScript y frameworks modernos. Me apasiona crear soluciones tecnológicas que aporten valor y mejoren la experiencia de los usuarios. Busco oportunidades para seguir creciendo como desarrollador y contribuir con proyectos innovadores mientras continúo mi formación profesional.</p>
+  <p align="center">Soy estudiante  con un profundo interés en la programación web. Actualmente dedico el 100% de mi tiempo a aprender y practicar desarrollo frontend y backend, fortaleciendo mis conocimientos en HTML, CSS, JavaScript y frameworks modernos. Me apasiona crear soluciones tecnológicas que aporten valor y mejoren la experiencia de los usuarios. Busco oportunidades para seguir creciendo como desarrollador y contribuir con proyectos innovadores mientras continúo mi formación profesional.</p>
     </p>
 </div>
 
